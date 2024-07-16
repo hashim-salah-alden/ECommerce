@@ -1,0 +1,8 @@
+.menuItems {
+  color: white !important;
+  text-decoration: none !important;
+}
+.categoryButton:hover{
+  background-color: #1f2937;
+  color:"#fff"
+}
