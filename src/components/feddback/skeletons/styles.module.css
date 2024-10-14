@@ -1,0 +1,7 @@
+.container{
+  background: red;
+  min-width: 1200px !important;
+  display: flex;
+  justify-content: space-between;
+  padding: 50px;
+}
