@@ -44,67 +44,67 @@ const shuffle = (array) => {
 const squareData = [
   {
     id: 1,
-    src: "../../../../public/hero/1.webp",
+    src: "https://res.cloudinary.com/deujvceoo/image/upload/v1728910122/1_b7q1b5.webp",
   },
   {
     id: 2,
-    src: "../../../../public/hero/2.webp",
+    src: "https://res.cloudinary.com/deujvceoo/image/upload/v1728910122/2_lkr726.webp",
   },
   {
     id: 3,
-    src: "../../../../public/hero/3.jpg",
+    src: "https://res.cloudinary.com/deujvceoo/image/upload/v1728910123/3_uloq6q.jpg",
   },
   {
     id: 4,
-    src: "../../../../public/hero/4.png",
+    src: "https://res.cloudinary.com/deujvceoo/image/upload/v1728910124/7_ia7psd.jpg",
   },
   {
     id: 5,
-    src: "../../../../public/hero/5.jpg",
+    src: "https://res.cloudinary.com/deujvceoo/image/upload/v1728910125/9_a8pcrq.webp",
   },
   {
     id: 6,
-    src: "../../../../public/hero/6.jpg",
+    src: "https://res.cloudinary.com/deujvceoo/image/upload/v1728910127/4_pdzydy.png",
   },
   {
     id: 7,
-    src: "../../../../public/hero/7.jpg",
+    src: "https://res.cloudinary.com/deujvceoo/image/upload/v1728910126/10_efsffe.jpg",
   },
   {
     id: 8,
-    src: "../../../../public/hero/8.jpg",
+    src: "https://res.cloudinary.com/deujvceoo/image/upload/v1728910126/8_uup5k6.jpg",
   },
   {
     id: 9,
-    src: "../../../../public/hero/9.webp",
+    src: "https://res.cloudinary.com/deujvceoo/image/upload/v1728910126/6_uxp8yx.jpg",
   },
   {
     id: 10,
-    src: "../../../../public/hero/10.jpg",
+    src: "https://res.cloudinary.com/deujvceoo/image/upload/v1728910127/14_jghwcv.jpg",
   },
   {
     id: 11,
-    src: "../../../../public/hero/11.png",
+    src: "https://res.cloudinary.com/deujvceoo/image/upload/v1728910127/13_amzgzd.png",
   },
   {
     id: 12,
-    src: "../../../../public/hero/12.jpg",
+    src: "https://res.cloudinary.com/deujvceoo/image/upload/v1728910127/15_wv3m2m.jpg",
   },
   {
     id: 13,
-    src: "../../../../public/hero/13.png",
+    src: "https://res.cloudinary.com/deujvceoo/image/upload/v1728910127/16_wyarui.jpg",
   },
   {
     id: 14,
-    src: "../../../../public/hero/14.jpg",
+    src: "https://res.cloudinary.com/deujvceoo/image/upload/v1728910128/12_xpgjik.jpg",
   },
   {
     id: 15,
-    src: "../../../../public/hero/15.jpg",
+    src: "https://res.cloudinary.com/deujvceoo/image/upload/v1728910131/5_r4i4z3.jpg",
   },
   {
     id: 16,
-    src: "../../../../public/hero/16.jpg",
+    src: "https://res.cloudinary.com/deujvceoo/image/upload/v1728910137/11_qulnnq.png",
   },
 ];
 
